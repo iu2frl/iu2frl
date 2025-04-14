@@ -20,10 +20,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iu2frl/iu2frl/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Profile views</p>
 
 ###
