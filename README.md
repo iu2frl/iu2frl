@@ -28,16 +28,6 @@ Member of [the SWRriors](https://swrriors.github.io/welcome/)
 
 ###
 
-<p align="left">Profile views</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iu2frl/count.svg?"  />
-</div>
-
-###
-
 <p align="left">Contact me</p>
 
 ###
