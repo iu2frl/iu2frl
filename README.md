@@ -19,9 +19,7 @@ Member of [the SWRriors](https://swrriors.github.io/welcome/)
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iu2frl/iu2frl/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-# 📮 Contact me
+## 📮 Contact me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luca-bennati-156ba9194/" target="_blank">
