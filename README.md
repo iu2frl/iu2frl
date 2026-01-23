@@ -11,6 +11,28 @@ Member of [the SWRriors](https://swrriors.github.io/welcome/)
 - 2025-04 Internal CTF challeng at my workplace -> 1st place over 100 partecipants (this is where it all began)
 - 2025-09 [ctrl-space](https://ctrl-space.gg/) -> 34th place over 299 partecipants
 
+## 💡 Projects you should check out
+
+### Code
+
+- [Gemini-powered Telegram RAG assistant](https://github.com/iu2frl/Telegram_GeminiAI_RAG_Bot)
+- [Olliter SDR Remote Controller](https://github.com/iu2frl/OlliterRemoteController)
+- [Olliter Streamdeck plugin](https://github.com/iu2frl/StreamDock.Plugins.Olliter)
+- [Backup MySQL databases to Telegram](https://github.com/iu2frl/MySQL-Telegram-Backup)
+- [PiStar (MMDVM) Telegram Last Heard](https://github.com/iu2frl/pistar-lastheard-telegram)
+- [Docker and Portainer backup to Telegram](https://github.com/iu2frl/PortainerVolumesTelegramBackup)
+- [Python VOR decoder](https://github.com/iu2frl/PythonVOR)
+- [Python ICOM CIV library](https://github.com/iu2frl/iu2frl-civ)
+- [Mikrotik logs to Telegram](https://github.com/iu2frl/MikrotikLogsAggregator)
+- [Telegram RSS aggregator](https://github.com/iu2frl/RssFeedToTelegram)
+- [Telegram APRS live beaconing](https://github.com/iu2frl/TelegramAprsBot)
+- [Discord bot to learn Morse code](https://github.com/iu2frl/morsetrainer)
+
+### Web apps
+
+- [Web-based Quansheng modding tool](https://iu2frl.github.io/uvtools-frl/)
+- [Wireguard conf to Mikrotik rsc](https://iu2frl.github.io/wireguard-to-mikrotik/)
+
 ## 🖥️ GitHub activity
 
 <picture>
