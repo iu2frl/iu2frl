@@ -11,7 +11,7 @@ Member of [the SWRriors](https://swrriors.github.io/welcome/)
 - 2025-04 Internal CTF challeng at my workplace -> 1st place over 100 partecipants (this is where it all began)
 - 2025-09 [ctrl-space](https://ctrl-space.gg/) -> 34th place over 299 partecipants
 
-## GitHub activity
+## 🖥️ GitHub activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iu2frl/iu2frl/output/pacman-contribution-graph-dark.svg">
@@ -21,7 +21,7 @@ Member of [the SWRriors](https://swrriors.github.io/welcome/)
 
 ---
 
-# Contact me
+# 📮 Contact me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luca-bennati-156ba9194/" target="_blank">
