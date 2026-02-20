@@ -15,6 +15,7 @@ Member of [the SWRriors](https://swrriors.github.io/welcome/)
 
 ### Code
 
+- [CloudShell: self-hosted web based SSH client](https://github.com/iu2frl/cloudshell)
 - [Gemini-powered Telegram RAG assistant](https://github.com/iu2frl/Telegram_GeminiAI_RAG_Bot)
 - [Olliter SDR Remote Controller](https://github.com/iu2frl/OlliterRemoteController)
 - [Olliter Streamdeck plugin](https://github.com/iu2frl/StreamDock.Plugins.Olliter)
