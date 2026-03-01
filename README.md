@@ -8,8 +8,9 @@ Ham radio enthusiast, software developer, hardware engineer.
 
 Member of [the SWRriors](https://swrriors.github.io/welcome/)
 
-- 2025-04 Internal CTF challeng at my workplace -> 1st place over 100 partecipants (this is where it all began)
+- 2025-03 Internal CTF challeng at my workplace -> 1st place over 100 partecipants (this is where it all began)
 - 2025-09 [ctrl-space](https://ctrl-space.gg/) -> 34th place over 299 partecipants
+- 2026-03 Internal CTF challeng at my workplace -> 1st place over 90 partecipants
 
 ## 💡 Projects you should check out
 
