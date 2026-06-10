@@ -16,6 +16,7 @@ Member of [the SWRriors](https://swrriors.github.io/welcome/)
 
 ### Code
 
+- [MD380 Online Codeplug Editor](https://github.com/iu2frl/md380-codeplug-editor)
 - [CloudShell: self-hosted web based SSH client](https://github.com/iu2frl/cloudshell)
 - [Gemini-powered Telegram RAG assistant](https://github.com/iu2frl/Telegram_GeminiAI_RAG_Bot)
 - [Olliter SDR Remote Controller](https://github.com/iu2frl/OlliterRemoteController)
@@ -32,6 +33,8 @@ Member of [the SWRriors](https://swrriors.github.io/welcome/)
 
 ### Web apps
 
+- [MD380 Online Codeplug Editor](https://iu2frl.github.io/md380-codeplug-editor/)
+- [Ham Radio Tools](https://iu2frl.github.io/ham-radio-tools/)
 - [Web-based Quansheng modding tool](https://iu2frl.github.io/uvtools-frl/)
 - [Wireguard conf to Mikrotik rsc](https://iu2frl.github.io/wireguard-to-mikrotik/)
 
