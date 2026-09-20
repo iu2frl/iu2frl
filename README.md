@@ -37,6 +37,7 @@ Member of [the SWRriors](https://swrriors.github.io/welcome/)
 - [Ham Radio Tools](https://iu2frl.github.io/ham-radio-tools/)
 - [Web-based Quansheng modding tool](https://iu2frl.github.io/uvtools-frl/)
 - [Wireguard conf to Mikrotik rsc](https://iu2frl.github.io/wireguard-to-mikrotik/)
+- [R&S licenses generator](https://iu2frl.github.io/rs-license-generator/)
 
 ## 🖥️ GitHub activity
 
