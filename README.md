@@ -38,6 +38,7 @@ Member of [the SWRriors](https://swrriors.github.io/welcome/)
 - [Web-based Quansheng modding tool](https://iu2frl.github.io/uvtools-frl/)
 - [Wireguard conf to Mikrotik rsc](https://iu2frl.github.io/wireguard-to-mikrotik/)
 - [R&S licenses generator](https://iu2frl.github.io/rs-license-generator/)
+- [Anycubic & Elegoo logs decrypter](https://iu2frl.github.io/3d-printer-logs-decrypter/)
 
 ## 🖥️ GitHub activity
 
